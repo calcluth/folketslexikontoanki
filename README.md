@@ -2,7 +2,7 @@
 
 ** WARNING: This is in development **
 
-This is a BETA of a plugin to import saved Google translate data to Anki.
+This is a BETA of a plugin to import saved Google translate data to Anki. First make a backup of your deck before using this add-on!!
 
 Instructions:
 
